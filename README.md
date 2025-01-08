@@ -1,2 +1,1 @@
 # stockyapp
-# stockyapp
